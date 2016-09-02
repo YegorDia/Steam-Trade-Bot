@@ -1,0 +1,11 @@
+*.pyc
+*.log
+*.zip
+*.rar
+*.cookie
+*-cache.json
+codeline_counter.py
+
+.idea/
+build/
+files/
